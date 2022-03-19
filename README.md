@@ -5,7 +5,7 @@ This repository contains resources derived from "Improving Question Answering Mo
 <img src="https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/img/pipeline.png" alt="Synthetic Adversarial Data Pipeline" width="480"/>
 
 ## Datasets
-- SynQA: https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/data/SynQA.zip
+- SynQA: https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/data/synQA.zip
 - Answer Candidates: https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/data/answer_candidates.zip
 
 For further details, refer to the `README.md` files associated with each dataset. For any further technical details, kindly refer to the paper.
