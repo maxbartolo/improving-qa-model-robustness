@@ -2,11 +2,11 @@
 
 This repository contains resources derived from "Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation" ([https://aclanthology.org/2021.emnlp-main.696/](https://aclanthology.org/2021.emnlp-main.696/))
 
-![Pipeline Image](https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/img/pipeline.png)
+<img src="https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/img/pipeline.png" alt="Synthetic Adversarial Data Pipeline" width="480"/>
 
 ## Datasets
-- SynQA: https://www.dropbox.com/s/u433ad87puyo0zq/synQA.zip
-- Answer Candidates: https://www.dropbox.com/s/prn4gm1xuk4i5j7/answer_candidates.zip
+- SynQA: https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/data/SynQA.zip
+- Answer Candidates: https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/data/answer_candidates.zip
 
 For further details, refer to the `README.md` files associated with each dataset. For any further technical details, kindly refer to the paper.
 
