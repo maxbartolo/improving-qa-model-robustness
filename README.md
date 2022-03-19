@@ -8,6 +8,13 @@ This repository contains resources derived from "Improving Question Answering Mo
 - SynQA: https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/data/synQA.zip
 - Answer Candidates: https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/data/answer_candidates.zip
 
+You can also load the synQA dataset directly in 🤗 HuggingFace transformers using:
+
+```
+from datasets import load_dataset
+dataset = load_dataset("mbartolo/synQA")
+```
+
 For further details, refer to the `README.md` files associated with each dataset. For any further technical details, kindly refer to the paper.
 
 ## Models
