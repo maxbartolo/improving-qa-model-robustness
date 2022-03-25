@@ -17,13 +17,15 @@ dataset = load_dataset("mbartolo/synQA")
 
 For further details, refer to the `README.md` files associated with each dataset. For any further technical details, kindly refer to the paper.
 
-## Models
+## QA Models
 - RoBERTa-Large SynQA: https://huggingface.co/mbartolo/roberta-large-synqa
 - RoBERTa-Large SynQAExt: https://huggingface.co/mbartolo/roberta-large-synqa-ext
 - ELECTRA-Large SynQA: https://huggingface.co/mbartolo/electra-large-synqa
 
 The ELECTRA-Large SynQA model is the adversarial model-in-the-loop of round 3 of the QA task on [Dynabench](https://dynabench.org/). If you would like to try coming up with questions that the model cannot answer correctly, check out: https://dynabench.org/tasks/qa/create.
 
+## Generative Models
+If you would like to use the models that were used to generate these synthetic adversarial questions, see https://github.com/maxbartolo/synQA-question-generators.
 
 ## Citation
 If you use this work, please consider citing:
